@@ -21,7 +21,8 @@ Fonte dos dados:
 
 
   - Para correta visualização do projeto, com os mapas, clique aqui no ícone a seguir: 
-<a href=\"https://colab.research.google.com/github/Fagner608/An-lise-Explorat-ria-de-Dados-de-Log-stica/blob/main/An%C3%A1lise_Explorat%C3%B3ria_de_Dados_de_Log%C3%ADstica.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fagner608/An-lise-Explorat-ria-de-Dados-de-Log-stica/blob/5250fd5ff9f674c346fb8d6d0d9e4b2004c4bd23/An%C3%A1lise_Explorat%C3%B3ria_de_Dados_de_Log%C3%ADstica.ipynb)
+
 
 ## Tecnologias Utilizadas
 
