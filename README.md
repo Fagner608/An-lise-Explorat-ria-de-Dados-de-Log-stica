@@ -1,7 +1,6 @@
 # Análise Exploratória de Dados de Logística da [Loggi](https://www.loggi.com/)
 Projeto realizado como atividade curricular do curso: Formação Analista de Dados da [EBAC](https://ebaconline.com.br/)
 
-Para melhor vizualização do projeto, acesse por: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fagner608/An-lise-Explorat-ria-de-Dados-de-Log-stica/blob/5250fd5ff9f674c346fb8d6d0d9e4b2004c4bd23/An%C3%A1lise_Explorat%C3%B3ria_de_Dados_de_Log%C3%ADstica.ipynb)
 
 
 - Análise, visualização e geração de insights. A análise realizada explora a localização geoespacial das entregas realizadas pela empresa Loggi no Distrito Federal (Brasília/Brasil).
